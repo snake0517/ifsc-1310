@@ -1,4 +1,4 @@
-/* Color Theme Swatches in Hex */
+//* Color Theme Swatches in Hex */
 .Starter-Css-1-hex {
   color: #131ca8;
 }
@@ -97,6 +97,7 @@ img {
 body {
   font-family: "Playfair Display", serif;
   margin: 0;
+  background-color:#131ca8;
 }
 
 header.primary {
@@ -221,27 +222,6 @@ article.post a {
 article.post a:hover {
   text-decoration: none;
 }
-#demo h2 {
-  color: #4F5BFF;
-}
-
-#demo p {
-  background-color: #A88702;
-}
-
-#demo a {
-  color: #ffffff;
-}
-
-#demo a:hover {
-  text-decoration: none;
-}
-
-#demo h3 {
-  border-left: 7.5px solid #000000;
-  padding: 10px;
-}
-
 table {
   width: 100%;
   border: 2px solid #000000;
@@ -272,6 +252,37 @@ tr:hover {
 
 td {
   border: 1px solid #000000;
+}
+
+#demo h2 {
+  color: #4F5BFF;
+}
+
+#demo p {
+  background-color: #A88702;
+}
+
+#demo a {
+  color: #ffffff;
+}
+
+#demo a:hover {
+  text-decoration: none;
+}
+
+#demo h3 {
+  border-left: 7.5px solid #000000;
+  padding: 10px;
+}
+#demo ol{
+  background-color: #f5ce33;
+}
+#demo ul{
+  background-color: #4F5BFF;
+}
+#demo dl{
+  background-color: #131ca8;
+  color:#ffffff;
 }
 /* Attribute Selector Example */
 aside[role="complementary"] {
