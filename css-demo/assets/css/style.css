@@ -137,6 +137,7 @@ header.primary h2 {
 
 header.primary nav {
   max-width: 960px;
+  margin: auto;
 }
 
 header.primary ul {
