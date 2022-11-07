@@ -65,3 +65,28 @@ nav {
     padding: 5px 0;
 
 }
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer img {
+    width: 180px;
+}
+
+footer ul {
+    padding: 28px 0;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #261F22;
+    padding: 5px 0;
+}
