@@ -2,7 +2,7 @@ body{
     background-color: darkgreen;
 }
 
-h1{
+h1,p,h2{
     color: rgb(57, 203, 188);
 }
 
